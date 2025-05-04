@@ -1,0 +1,23 @@
+{
+  "name": "redux-sharpener",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000d\u0000u\u0000x\u0000-\u0000S\u0000h\u0000a\u0000r\u0000p\u0000e\u0000n\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushrutKhajuria/Redux-Sharpener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushrutKhajuria/Redux-Sharpener/issues"
+  },
+  "homepage": "https://github.com/SushrutKhajuria/Redux-Sharpener#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
